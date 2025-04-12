@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @indyjosh
-- 👀 I’m interested in user story mapping
-- 🌱 I’m currently learning version control
+- 👀 I’m interested in story mapping
 - 💞️ I’m looking to collaborate on CardBoardit.com
 - 📫 How to reach me joshcolter@gmail.com
 
